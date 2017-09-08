@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-UnQFZ7QQw-upXlOk8Six4w" name="new_artifact,_oEAD8PrFEeauU9O6MtTB9g" guid="-UnQFZ7QQw-upXlOk8Six4w" changeDate="2017-02-24T16:16:30.177-0300">
+  <mainDescription>&lt;p>&#xD;
+    Documentar requsitos necesários&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;p>&#xD;
+    Documentar requsitos necesários&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

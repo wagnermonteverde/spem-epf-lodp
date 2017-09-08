@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-376oIdQA4yzBL7NjZ9juCg" name=",_u5Fw4PofEea_WPhbd9hbJw" guid="-376oIdQA4yzBL7NjZ9juCg" changeDate="2017-02-23T21:07:24.383-0300" version="1">
+  <mainDescription>Os interessados devem descrever os seus requsitos necessidades e expectativas quanto ao objeto de aprendizagem.</mainDescription>
+  <sections xmi:id="_ZPv6kPrHEeauU9O6MtTB9g" name="Análise da demanda do LO" guid="_ZPv6kPrHEeauU9O6MtTB9g">
+    <sectionDescription>&lt;p>&#xD;
+    Análise da demanda do LO, verificar quais são os requisitos necessários para sua criação, bem como tecnologias e o todo&#xD;
+    ambiente até a entrega&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_imdyUPrHEeauU9O6MtTB9g" name="Documentação dos requsitos levantados" guid="_imdyUPrHEeauU9O6MtTB9g">
+    <sectionDescription>Documentação dos requsitos levantados duante análise.</sectionDescription>
+  </sections>
+  <purpose>Descrever os requsitos e necessidades do objeto de aprendizagem.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

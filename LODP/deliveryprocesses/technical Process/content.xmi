@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-HZ_Tq-kw5Y9sHVVf2qlLFw" name="technical Process,_TJar8fq7EeauU9O6MtTB9g" guid="-HZ_Tq-kw5Y9sHVVf2qlLFw"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-GfZMIlqo-PPb6h7SLp-_Nw" name="identificao_de_individuos_necessrios_para_criao_do_objeto_de_aprendizagem_requerido,_4U9t0PrBEeauU9O6MtTB9g" guid="-GfZMIlqo-PPb6h7SLp-_Nw">
+    <refinedDescription>Verificar quais profissionais são necessários para criação do objeto de aprendizagem, estes podem variar de acordo com o&#xD;
+tipo de objeto de aprendizagem que deve ser gerado.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="--npUIvCrNLCof0MFAtYEFw" name="levantamento_de_requisitos_por_parte_dos_interessados,_7rSJYPrBEeauU9O6MtTB9g" guid="--npUIvCrNLCof0MFAtYEFw">
+    <refinedDescription>Os interessados devem descrever os seus requsitos necessidades e expectativas quanto ao objeto de aprendizagem.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-7j-CtaM2JObIt56Xo1w0MA" name="analise_de_do_requisito_gerado,_eHJgoPrCEeauU9O6MtTB9g" guid="-7j-CtaM2JObIt56Xo1w0MA">
+    <refinedDescription>O requisito gerado deve ser analisado segundo à sua qualidade (completeza, correção,dentre outros atributos), com controle&#xD;
+de toda alteração e supervisão do membro responsável pelos requisitos e dos interessados que o definiram.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="--cP3cnBNHxqtgxzsWBV3FA" name="definicao_dos_requisitos_prioritarios,_e_lkgPrCEeauU9O6MtTB9g" guid="--cP3cnBNHxqtgxzsWBV3FA">
+    <refinedDescription>Os membros do projeto devem descrever os requisitos preioritários, ms sem necessariamente defnir a prioridade de todos os&#xD;
+requisitos, os quais deverão ser documentados e considerados inicialmente para implementação. Todo requsito escolhido para&#xD;
+configuração deve ser mantido sob controle de configuraçao.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-vvS4nTmZq7tmfMV6GY6iNA" name="criacao_de_casos_de_uso_dos_requisitos,_ffrZ0PrCEeauU9O6MtTB9g" guid="-vvS4nTmZq7tmfMV6GY6iNA">
+    <refinedDescription>Casos de uso devem ser descritos com cada requisito, capturando cenários&amp;nbsp; de uso do objeto de aprendizagem que&#xD;
+exercitem o requisito.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-1lqKQcgFSh3CeCi-zWkNJg" name="responsavel_pelo_kickoff,_eSbHEfrDEeauU9O6MtTB9g" guid="-1lqKQcgFSh3CeCi-zWkNJg">
+    <refinedDescription>Indivíduo responsável por dar início a análise do projeto do objeto de aprendizagem, este&amp;nbsp; deverá identificar os&#xD;
+interessados como aprendizes e instrutores bem como profissionais necessários para criação do objeto de aprendizagem.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-01xDdXX5re2RwsGyoT5fpg" name="documento_de_profissionais_necessarios,_eSbHF_rDEeauU9O6MtTB9g" guid="-01xDdXX5re2RwsGyoT5fpg">
+    <refinedDescription>&lt;p>&#xD;
+    Definir quais profissionais serão necessários para construção do objeto de aprendizagem, esta definição por sua vez&#xD;
+    depende do objetivo do objeto de aprendizagem, a tenologia envolvida para criação do mesmo.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-8B9wzJfNAHPZ8_o3_aiKDg" name="responsavel_pelo_kickoff,_dycUkfrFEeauU9O6MtTB9g" guid="-8B9wzJfNAHPZ8_o3_aiKDg">
+    <refinedDescription>Indivíduo responsável por dar início a análise do projeto do objeto de aprendizagem, este&amp;nbsp; deverá identificar os&#xD;
+interessados como aprendizes e instrutores bem como profissionais necessários para criação do objeto de aprendizagem.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-wtPBgPzdUtTny9EEbEorbA" name="profissional_necessario_para_contrucao_do_objeto_de_aprendizagem,_dycUl_rFEeauU9O6MtTB9g" guid="-wtPBgPzdUtTny9EEbEorbA">
+    <refinedDescription>Profissional necessário e elencado na tarefa de análise dos envolvidos na criação do objeto de aprendiagem. Este representa&#xD;
+todos os profissionais necesários para cada fase de contrução do LO.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-XkSqRPEaCy8Nf00M3vKBcw" name="documento_de_requisistos_do_objeto_de_aprendizagem,_dyibMfrFEeauU9O6MtTB9g" guid="-XkSqRPEaCy8Nf00M3vKBcw">
+    <refinedDescription>Documento contendo todos os requsitos necessário para o deenvolvimento do objeto de aprendizagem, criado pelos&#xD;
+profissionais&amp;nbsp; envolvidos no processo.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-xEGHFxgX4GwQqRryr7mENQ" name="documento_de_requisistos_do_objeto_de_aprendizagem,_y8tS4frFEeauU9O6MtTB9g" guid="-xEGHFxgX4GwQqRryr7mENQ">
+    <refinedDescription>Documento contendo todos os requsitos necessário para o deenvolvimento do objeto de aprendizagem, criado pelos&#xD;
+profissionais&amp;nbsp; envolvidos no processo.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-heUgBM0lUd1_-pVgWBZytA" name="profissional_necessario_para_contrucao_do_objeto_de_aprendizagem,_pC2m8frHEeauU9O6MtTB9g" guid="-heUgBM0lUd1_-pVgWBZytA">
+    <refinedDescription>Profissional necessário e elencado na tarefa de análise dos envolvidos na criação do objeto de aprendiagem. Este representa&#xD;
+todos os profissionais necesários para cada fase de contrução do LO.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-DLQgBknkD8dVDK8ndY4y7Q" name="documento_de_rqusitos_prioritarios,_y8U4YfrFEeauU9O6MtTB9g" guid="-DLQgBknkD8dVDK8ndY4y7Q">
+    <refinedDescription>&lt;p>&#xD;
+    Documentar requsitos necesários&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-fREaqT04DI3SnAR4S5YFtg" name="documento_contendo_casos_de_uso,_kkI1YfrGEeauU9O6MtTB9g" guid="-fREaqT04DI3SnAR4S5YFtg">
+    <refinedDescription>Documento contendo casos de uso gerados a partir do requisitos gerados para o objeto de aprendizagem.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ikGOfGz-s2_JBO0oiGDEJw" name="criacao_do_projeto_arquitetural,_VgrhYPuDEeaFNYBgvrTvnQ" guid="-ikGOfGz-s2_JBO0oiGDEJw">
+    <refinedDescription>&lt;span class=&quot;fontstyle0&quot;>O desenho/projeto do objeto de aprendizagem inicia-se com a definição da arquitetura do objeto de&#xD;
+aprendizagem e as interfaces dele com outros objetos e com o sistema. Dentre os requisitos definidos na especificação,&#xD;
+devem constar os aplicativos educacionais (&lt;/span>&lt;span class=&quot;fontstyle2&quot;>&lt;em>e.g.&lt;/em>&lt;/span>&lt;span class=&quot;fontstyle0&quot;>,&#xD;
+ambientes virtuais de aprendizagem) em que o objeto será utilizado ou, ao menos, os padrões de representação de objetos de&#xD;
+aprendizagem a serem adotados e, na inexistência ou insuficiência desses padrões, de considerações quanto ao&lt;br />&#xD;
+uso deles em plataformas específicas&lt;/span> &lt;br&#xD;
+style=&quot;LINE-HEIGHT: normal; WIDOWS: 2; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; FONT-WEIGHT: normal; WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-xgJGJJPKmoGu2l3NSCWB3Q" name="profissional_responsavel_pelo_design,_VgrhYfuDEeaFNYBgvrTvnQ" guid="-xgJGJJPKmoGu2l3NSCWB3Q">
+    <refinedDescription>Profissional responsavel pelo design do objeto de aprendizagem, podem ser uma ou mais, profissionais, dependendo&#xD;
+danecessidade. Este papel aqui está representado pelo profissional genérico.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-lXW4Qi8M8HHFAHlqLndCBQ" name="responsavel_pelo_kickoff,_VgrhY_uDEeaFNYBgvrTvnQ" guid="-lXW4Qi8M8HHFAHlqLndCBQ">
+    <refinedDescription>Indivíduo responsável por dar início a análise do projeto do objeto de aprendizagem, este&amp;nbsp; deverá identificar os&#xD;
+interessados como aprendizes e instrutores bem como profissionais necessários para criação do objeto de aprendizagem.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-IdIWajfnsN--HAIe0k9w9Q" name="documento_contendo_casos_de_uso,_VgrhZfuDEeaFNYBgvrTvnQ" guid="-IdIWajfnsN--HAIe0k9w9Q">
+    <refinedDescription>Documento contendo casos de uso gerados a partir do requisitos gerados para o objeto de aprendizagem.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-pExavM75ouz7BXdBibLqQA" name="documento_de_requisistos_do_objeto_de_aprendizagem,_VgrhZ_uDEeaFNYBgvrTvnQ" guid="-pExavM75ouz7BXdBibLqQA">
+    <refinedDescription>Documento contendo todos os requsitos necessário para o deenvolvimento do objeto de aprendizagem, criado pelos&#xD;
+profissionais&amp;nbsp; envolvidos no processo.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-tNSX8JcE0vfi-eYRZPpHyQ" name="documento_de_rqusitos_prioritarios,_VgrhafuDEeaFNYBgvrTvnQ" guid="-tNSX8JcE0vfi-eYRZPpHyQ">
+    <refinedDescription>&lt;p>&#xD;
+    Documentar requsitos necesários&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Kmq0GASnk1YLVeGubg0jSQ" name="documento_com_projeto_aquitetural_do_objeto_de_aprendizagem._1,_Vgrha_uDEeaFNYBgvrTvnQ" guid="-Kmq0GASnk1YLVeGubg0jSQ">
+    <refinedDescription>&lt;span class=&quot;fontstyle0&quot;>Documento contendo projeto arquitetural do objeto de aprendizagem, com a definição da arquitetura&#xD;
+do objeto de aprendizagem e as interfaces dele com outros objetos e com o sistema.&lt;/span> &lt;br&#xD;
+style=&quot;LINE-HEIGHT: normal; WIDOWS: 2; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; FONT-WEIGHT: normal; WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-5yKipq5wkY4KxVRukajOYg" name="criacao_do_projeto_detalhado_do_objeto_de_aprendizagem,_WwnfQPuDEeaFNYBgvrTvnQ" guid="-5yKipq5wkY4KxVRukajOYg">
+    <refinedDescription>&lt;span class=&quot;fontstyle0&quot;>Realizado o projeto arquitetural, inicia-se o projeto detalhado do objeto de aprendizagem.&lt;br />&#xD;
+Esse projeto deve especificar tanto o projeto instrucional do objeto de aprendizagem quanto&lt;br />&#xD;
+o projeto dos módulos de software necessários à sua construção.&lt;/span> &lt;br&#xD;
+style=&quot;LINE-HEIGHT: normal; WIDOWS: 2; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; FONT-WEIGHT: normal; WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+&#xD;
+&lt;span class=&quot;fontstyle0&quot;>Os modelos dos módulos de software&lt;br />&#xD;
+devem ser definidos de acordo com o paradigma escolhido para a construção (procedural, orientado a objeto ou&#xD;
+declarativo).&lt;/span> &lt;br&#xD;
+style=&quot;LINE-HEIGHT: normal; WIDOWS: 2; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; FONT-WEIGHT: normal; WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-gWxLtDGDABFk1oCHVJJRUg" name="documento_com_projeto_aquitetural_do_objeto_de_aprendizagem._1,_WxYUQPuDEeaFNYBgvrTvnQ" guid="-gWxLtDGDABFk1oCHVJJRUg">
+    <refinedDescription>&lt;span class=&quot;fontstyle0&quot;>Documento contendo projeto arquitetural do objeto de aprendizagem, com a definição da arquitetura&#xD;
+do objeto de aprendizagem e as interfaces dele com outros objetos e com o sistema.&lt;/span> &lt;br&#xD;
+style=&quot;LINE-HEIGHT: normal; WIDOWS: 2; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; FONT-WEIGHT: normal; WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-I1oNvuSyVmvLVWrUV0JVrA" name="documento_contendo_projeto_detalhado_do_objeto_de_aprendizagem,_WxYUQvuDEeaFNYBgvrTvnQ" guid="-I1oNvuSyVmvLVWrUV0JVrA">
+    <refinedDescription>&lt;span class=&quot;fontstyle0&quot;>Esse projeto deve especificar tanto o projeto instrucional do objeto de aprendizagem quanto&lt;br />&#xD;
+o projeto dos módulos de software necessários à sua construção, &lt;span class=&quot;fontstyle0&quot;>Os modelos dos módulos de software&#xD;
+devem ser definidos de acordo com o paradigma escolhido para a construção (procedural, orientado a objeto ou&#xD;
+declarativo).&lt;/span>&lt;br&#xD;
+style=&quot;LINE-HEIGHT: normal; WIDOWS: 2; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; FONT-WEIGHT: normal; WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+&#xD;
+&lt;/span> &lt;br&#xD;
+style=&quot;LINE-HEIGHT: normal; WIDOWS: 2; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; FONT-WEIGHT: normal; WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-VH2xifQZoC2L4R5OarWe7A" name="profissional_responsavel_pelo_design,_EepR0fuFEeaFNYBgvrTvnQ" guid="-VH2xifQZoC2L4R5OarWe7A">
+    <refinedDescription>Profissional responsavel pelo design do objeto de aprendizagem, podem ser uma ou mais, profissionais, dependendo&#xD;
+danecessidade. Este papel aqui está representado pelo profissional genérico.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-1V2CW93SIKyjiyhzjl3COw" name="responsavel_pelo_kickoff,_EepR1PuFEeaFNYBgvrTvnQ" guid="-1V2CW93SIKyjiyhzjl3COw">
+    <refinedDescription>Indivíduo responsável por dar início a análise do projeto do objeto de aprendizagem, este&amp;nbsp; deverá identificar os&#xD;
+interessados como aprendizes e instrutores bem como profissionais necessários para criação do objeto de aprendizagem.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-sljofGz6e53DEIwMPMc3WA" name="verificacao_dos_documentos_de_projeto,_oScacPuHEeaFNYBgvrTvnQ" guid="-sljofGz6e53DEIwMPMc3WA">
+    <refinedDescription>&lt;p>&#xD;
+    Verificar e entender os projetos de arquitetura/instrucional e o projeto detalhado do LO. Vericando tecnologias módulos&#xD;
+    de software e artefatos a serem gerados.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-sF4x1HmwwpyEPH59gw-Ghg" name="implementacao_do_lo,_oyDuoPuHEeaFNYBgvrTvnQ" guid="-sF4x1HmwwpyEPH59gw-Ghg">
+    <refinedDescription>Implementar LO seguindo o projeto arquitetural/instrucional e o projeto detalhado.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-uWXQHTp_3Z7hjIukjsq79A" name="profissional_responsavel_pela_implementacao,_oy0joPuHEeaFNYBgvrTvnQ" guid="-uWXQHTp_3Z7hjIukjsq79A">
+    <refinedDescription>Profissional responsavel pela implementacao do objetode aprendizagem, este deve se capaz de implementar o obejto utilizando&#xD;
+as tecnologias definidas no projeto do LO. Pode ser mais de um profissional mas aqui representado por um profissional&#xD;
+genérico.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-w-F2s-vdUVNcVCPptbM8Zg" name="profissional_responsavel_pelo_design,_oy0jovuHEeaFNYBgvrTvnQ" guid="-w-F2s-vdUVNcVCPptbM8Zg">
+    <refinedDescription>Profissional responsavel pelo design do objeto de aprendizagem, podem ser uma ou mais, profissionais, dependendo&#xD;
+danecessidade. Este papel aqui está representado pelo profissional genérico.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-dSAceKuU1CS5hQbjGt3CdQ" name="documento_com_projeto_aquitetura_instrucional_do_objeto_de_aprendizagem,_ozG3gPuHEeaFNYBgvrTvnQ" guid="-dSAceKuU1CS5hQbjGt3CdQ">
+    <refinedDescription>&lt;span class=&quot;fontstyle0&quot;>Documento contendo projeto arquitetural do objeto de aprendizagem, com a definição da arquitetura&#xD;
+do objeto de aprendizagem e as interfaces dele com outros objetos e com o sistema.&lt;/span> &lt;br&#xD;
+style=&quot;LINE-HEIGHT: normal; WIDOWS: 2; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; FONT-WEIGHT: normal; WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-FoiUoVmB7aPUKdPfF7BxZQ" name="documento_contendo_projeto_detalhado_do_objeto_de_aprendizagem,_ozG3gvuHEeaFNYBgvrTvnQ" guid="-FoiUoVmB7aPUKdPfF7BxZQ">
+    <refinedDescription>&lt;span class=&quot;fontstyle0&quot;>Esse projeto deve especificar tanto o projeto instrucional do objeto de aprendizagem quanto&lt;br />&#xD;
+o projeto dos módulos de software necessários à sua construção, &lt;span class=&quot;fontstyle0&quot;>Os modelos dos módulos de software&#xD;
+devem ser definidos de acordo com o paradigma escolhido para a construção (procedural, orientado a objeto ou&#xD;
+declarativo).&lt;/span>&lt;br&#xD;
+style=&quot;LINE-HEIGHT: normal; WIDOWS: 2; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; FONT-WEIGHT: normal; WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+&#xD;
+&lt;/span> &lt;br&#xD;
+style=&quot;LINE-HEIGHT: normal; WIDOWS: 2; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; FONT-WEIGHT: normal; WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ZWV0bcY3T6nmYdJ_iu4GPA" name="documento_de_requisistos_do_objeto_de_aprendizagem,_ozG3hPuHEeaFNYBgvrTvnQ" guid="-ZWV0bcY3T6nmYdJ_iu4GPA">
+    <refinedDescription>Documento contendo todos os requsitos necessário para o deenvolvimento do objeto de aprendizagem, criado pelos&#xD;
+profissionais&amp;nbsp; envolvidos no processo.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-vU4PrKZPwy6HRM7m54UkQA" name="objeto_de_aprendizagem,_ozG3hvuHEeaFNYBgvrTvnQ" guid="-vU4PrKZPwy6HRM7m54UkQA">
+    <refinedDescription>Objeto de aprendizagem gerado segundo projeto.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+</xmi:XMI>

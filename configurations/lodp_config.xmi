@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:MethodConfiguration xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_Gk5LgIpZEeaDUKA1mVKFEA" name="lodp_config" guid="_Gk5LgIpZEeaDUKA1mVKFEA" presentationName="LODP Config" briefDescription="Configuração do processo LODP ">
+  <methodElementProperty xmi:id="_KVXzgIpZEeaDUKA1mVKFEA" name="me_edited" value="true"/>
+  <methodPluginSelection href="uma://_YkqVYPiGEea3_-Q0nJpzOA#_YkqVYPiGEea3_-Q0nJpzOA"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessComponent" href="uma://_TJar8Pq7EeauU9O6MtTB9g#_TJar8Pq7EeauU9O6MtTB9g"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessPackage" href="uma://_YkqVYPiGEea3_-Q0nJpzOA#_YkqVbviGEea3_-Q0nJpzOA"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_YkqVYPiGEea3_-Q0nJpzOA#_EmGGcPiMEea3_-Q0nJpzOA"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_YkqVYPiGEea3_-Q0nJpzOA#_L2JzsPiMEea3_-Q0nJpzOA"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_YkqVYPiGEea3_-Q0nJpzOA#_POF_4PiMEea3_-Q0nJpzOA"/>
+</org.eclipse.epf.uma:MethodConfiguration>

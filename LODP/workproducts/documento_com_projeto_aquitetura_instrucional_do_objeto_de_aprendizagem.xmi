@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mOssIT-6o4UFbTgdoefC5g" name="new_artifact,_Zo2p8Pt-Eea9qZeejnBn-A" guid="-mOssIT-6o4UFbTgdoefC5g" changeDate="2017-02-25T14:19:31.935-0300" version="1">
+  <mainDescription>&lt;span class=&quot;fontstyle0&quot;>Documento contendo projeto arquitetural do objeto de aprendizagem, com a definição da arquitetura&#xD;
+do objeto de aprendizagem e as interfaces dele com outros objetos e com o sistema.&lt;/span> &lt;br&#xD;
+style=&quot;LINE-HEIGHT: normal; WIDOWS: 2; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; FONT-WEIGHT: normal; WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+</mainDescription>
+  <purpose>Descrever projeto arquitetural do objeto de aprendizagem.</purpose>
+  <impactOfNotHaving>falta de projeto arquitetural, impacto alto na organização do projeto do LO</impactOfNotHaving>
+  <reasonsForNotNeeding>não existe</reasonsForNotNeeding>
+  <briefOutline>Documento contendo projeto arquitetural do objeto de aprendizagem.</briefOutline>
+  <representation>&lt;p>&#xD;
+    Documento&#xD;
+&lt;/p></representation>
+  <notation>textual</notation>
+</org.eclipse.epf.uma:ArtifactDescription>

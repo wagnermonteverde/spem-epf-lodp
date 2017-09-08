@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Xk1judXtplTy338GoM8S-Q" name=",_bgkVoPoiEea_WPhbd9hbJw" guid="-Xk1judXtplTy338GoM8S-Q" changeDate="2017-02-23T21:11:08.440-0300" version="1">
+  <mainDescription>Os membros do projeto devem descrever os requisitos preioritários, ms sem necessariamente defnir a prioridade de todos os&#xD;
+requisitos, os quais deverão ser documentados e considerados inicialmente para implementação. Todo requsito escolhido para&#xD;
+configuração deve ser mantido sob controle de configuraçao.</mainDescription>
+  <sections xmi:id="_Dt5isPrHEeauU9O6MtTB9g" name="Verificação dos requisitos  necessários para início do projeto" guid="_Dt5isPrHEeauU9O6MtTB9g">
+    <sectionDescription>Verificação dos requisitos&amp;nbsp; necessários para início do projeto, verificar ne sa etapa quais requisitos devem ser&#xD;
+implementados para o inicio da construção do LO.</sectionDescription>
+  </sections>
+  <sections xmi:id="_QHQsEPrHEeauU9O6MtTB9g" name="Documentação dos requsitos prioritários" guid="_QHQsEPrHEeauU9O6MtTB9g">
+    <sectionDescription>Documentação dos requsitos prioritários,</sectionDescription>
+  </sections>
+  <purpose>Defnir requisistos prioritários</purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0099fP8MbQ78C79kNUqRuQ" name=",_079xoPuFEeaFNYBgvrTvnQ" guid="-0099fP8MbQ78C79kNUqRuQ" changeDate="2017-02-25T15:12:46.356-0300" version="1">
+  <mainDescription>&lt;p>&#xD;
+    Verificar e entender os projetos de arquitetura/instrucional e o projeto detalhado do LO. Vericando tecnologias módulos&#xD;
+    de software e artefatos a serem gerados.&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;p>&#xD;
+    Verificar e entender os projetos de arquitetura/instrucional e o projeto detalhado do LO.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

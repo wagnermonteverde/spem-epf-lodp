@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-DwXU8o8irJ97n-30VOUnkQ" name=",_53z6MPt9Eea9qZeejnBn-A" guid="-DwXU8o8irJ97n-30VOUnkQ" changeDate="2017-02-25T14:16:18.193-0300" version="1">
+  <mainDescription>&lt;span class=&quot;fontstyle0&quot;>Realizado o projeto arquitetural, inicia-se o projeto detalhado do objeto de aprendizagem.&lt;br />&#xD;
+Esse projeto deve especificar tanto o projeto instrucional do objeto de aprendizagem quanto&lt;br />&#xD;
+o projeto dos módulos de software necessários à sua construção.&lt;/span> &lt;br&#xD;
+style=&quot;LINE-HEIGHT: normal; WIDOWS: 2; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; FONT-WEIGHT: normal; WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+&#xD;
+&lt;span class=&quot;fontstyle0&quot;>Os modelos dos módulos de software&lt;br />&#xD;
+devem ser definidos de acordo com o paradigma escolhido para a construção (procedural, orientado a objeto ou&#xD;
+declarativo).&lt;/span> &lt;br&#xD;
+style=&quot;LINE-HEIGHT: normal; WIDOWS: 2; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; FONT-WEIGHT: normal; WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+</mainDescription>
+  <sections xmi:id="_nmLHIPuDEeaFNYBgvrTvnQ" name="Modelagem do Processo detalhado" guid="_nmLHIPuDEeaFNYBgvrTvnQ">
+    <sectionDescription>Modelagem do Processo detalhado observando requisitos e detalhes pertinentes a execução do processo.</sectionDescription>
+  </sections>
+  <purpose>Criar projeto detalhado do objeto de aprendizagem verificando módulos de software entre outros artefatos para criação e&#xD;
+implantação do mesmo</purpose>
+</org.eclipse.epf.uma:TaskDescription>

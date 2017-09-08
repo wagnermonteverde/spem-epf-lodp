@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-_dUAf7aNClb7D86PxxdIUQ" name="new_artifact,_pHhM4Pq5EeauU9O6MtTB9g" guid="-_dUAf7aNClb7D86PxxdIUQ" changeDate="2017-02-24T14:50:55.143-0300" version="1">
+  <mainDescription>Documento contendo casos de uso gerados a partir do requisitos gerados para o objeto de aprendizagem.</mainDescription>
+  <purpose>Descrever casos de uso.</purpose>
+  <impactOfNotHaving>Requisitos não validados</impactOfNotHaving>
+  <reasonsForNotNeeding>&lt;p>&#xD;
+    Não existe&#xD;
+&lt;/p></reasonsForNotNeeding>
+  <briefOutline>Documento contendo casos de uso gerados a partir do requisitos gerados para o objeto de aprendizagem.</briefOutline>
+  <representationOptions>Documento</representationOptions>
+  <representation>Documento</representation>
+  <notation>textual</notation>
+</org.eclipse.epf.uma:ArtifactDescription>

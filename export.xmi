@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI epf:version="1.5.1" xmi:version="2.0" xmlns:epf="http://www.eclipse.org/epf" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:xmi="http://www.omg.org/XMI">
+<org.eclipse.epf.uma.resourcemanager:ResourceManager guid="_0TUQYYfNEea7dcO9ORj2ew" xmi:id="_0TUQYYfNEea7dcO9ORj2ew">
+<subManagers href="uma://_YkqVYPiGEea3_-Q0nJpzOA#_YlCv4PiGEea3_-Q0nJpzOA" xmi:id="_YlCv4PiGEea3_-Q0nJpzOA">
+</subManagers>
+<resourceDescriptors id="_0TUQYIfNEea7dcO9ORj2ew" uri="" xmi:id="_0TUQYofNEea7dcO9ORj2ew">
+</resourceDescriptors>
+<resourceDescriptors id="_YkqVYPiGEea3_-Q0nJpzOA" uri="LODP/plugin.xmi" xmi:id="_YlCv4fiGEea3_-Q0nJpzOA">
+</resourceDescriptors>
+</org.eclipse.epf.uma.resourcemanager:ResourceManager>
+<org.eclipse.epf.uma:MethodLibrary guid="_0TUQYIfNEea7dcO9ORj2ew" name="LODP" xmi:id="_0TUQYIfNEea7dcO9ORj2ew">
+<methodElementProperty name="library_synFree" value="true" xmi:id="_0V_w8IfNEea7dcO9ORj2ew">
+</methodElementProperty>
+<methodPlugins href="uma://_YkqVYPiGEea3_-Q0nJpzOA#_YkqVYPiGEea3_-Q0nJpzOA" xmi:id="_YkqVYPiGEea3_-Q0nJpzOA">
+</methodPlugins>
+<methodElementProperty value="0">
+</methodElementProperty>
+<methodElementProperty value="_YkqVYPiGEea3_-Q0nJpzOA">
+</methodElementProperty>
+<methodElementProperty value="LODP">
+</methodElementProperty>
+</org.eclipse.epf.uma:MethodLibrary>
+</xmi:XMI>

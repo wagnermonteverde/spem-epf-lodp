@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qmIHipmhVte0VflaGOQWHg" name="criacao_do_projeto_arquitetural,_dYsqsPt8Eea9qZeejnBn-A" guid="-qmIHipmhVte0VflaGOQWHg" changeDate="2017-02-25T14:05:32.120-0300" version="1">
+  <mainDescription>&lt;span class=&quot;fontstyle0&quot;>O desenho/projeto do objeto de aprendizagem inicia-se com a definição da arquitetura do objeto de&#xD;
+aprendizagem e as interfaces dele com outros objetos e com o sistema. Dentre os requisitos definidos na especificação,&#xD;
+devem constar os aplicativos educacionais (&lt;/span>&lt;span class=&quot;fontstyle2&quot;>&lt;em>e.g.&lt;/em>&lt;/span>&lt;span class=&quot;fontstyle0&quot;>,&#xD;
+ambientes virtuais de aprendizagem) em que o objeto será utilizado ou, ao menos, os padrões de representação de objetos de&#xD;
+aprendizagem a serem adotados e, na inexistência ou insuficiência desses padrões, de considerações quanto ao&lt;br />&#xD;
+uso deles em plataformas específicas&lt;/span> &lt;br&#xD;
+style=&quot;LINE-HEIGHT: normal; WIDOWS: 2; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; FONT-WEIGHT: normal; WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+</mainDescription>
+  <sections xmi:id="_spkFUPt_Eea9qZeejnBn-A" name="Verificar requisitos gerados" guid="_spkFUPt_Eea9qZeejnBn-A">
+    <sectionDescription>Verificar requsitos do objeto de aprendiagem, para compreenção do mesmo.</sectionDescription>
+  </sections>
+  <sections xmi:id="_za8SgPt_Eea9qZeejnBn-A" name="Verificar requisitos prioritários" guid="_za8SgPt_Eea9qZeejnBn-A">
+    <sectionDescription>Verificar requsitos prioritários para inicio do projeto do objeto de aprendozagem.</sectionDescription>
+  </sections>
+  <sections xmi:id="_4pVqAPt_Eea9qZeejnBn-A" name="Gerar documento contendo projeto arquitetural." guid="_4pVqAPt_Eea9qZeejnBn-A">
+    <sectionDescription>&lt;p>&#xD;
+    Com base nos requsitos e casos de uso gerar projeto arquitetural do projeto do objeto d aprendizagem.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>Definir projeto e a arquitetura do objeto de aprendizagem e as interfaces dele com outros objetos e com o sistema.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-pAJAooQFypI6lyDcVs4VcA" name=",_NcVwIPuGEeaFNYBgvrTvnQ" guid="-pAJAooQFypI6lyDcVs4VcA" changeDate="2017-02-25T15:14:38.006-0300" version="1">
+  <mainDescription>Implementar LO seguindo o projeto arquitetural/instrucional e o projeto detalhado.</mainDescription>
+  <sections xmi:id="_N9pQ8PuHEeaFNYBgvrTvnQ" name="Analise de projeto" guid="_N9pQ8PuHEeaFNYBgvrTvnQ">
+    <sectionDescription>&lt;p>&#xD;
+    Análise po parte do desenvolvedor dos projetos instrucionais e do projeto detalhado do LO. Opcionalmente também a&#xD;
+    análise do documeto d requisitos gerais do LO.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_YOt4IPuHEeaFNYBgvrTvnQ" name="Implementação do LO" guid="_YOt4IPuHEeaFNYBgvrTvnQ">
+    <sectionDescription>Implementar segundo projeto verificando as tecnologias linguagens especificadas.</sectionDescription>
+  </sections>
+  <purpose>Implementar LO segundo os requsitos do projeto</purpose>
+</org.eclipse.epf.uma:TaskDescription>

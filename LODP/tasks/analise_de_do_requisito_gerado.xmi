@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-SiRpHUT_kgd4nbvjd192xA" name=",_LrQF8PomEea_WPhbd9hbJw" guid="-SiRpHUT_kgd4nbvjd192xA" changeDate="2017-02-23T21:16:35.310-0300" version="1">
+  <mainDescription>O requisito gerado deve ser analisado segundo à sua qualidade (completeza, correção,dentre outros atributos), com controle&#xD;
+de toda alteração e supervisão do membro responsável pelos requisitos e dos interessados que o definiram.</mainDescription>
+  <sections xmi:id="_Jdqz0PrFEeauU9O6MtTB9g" name="Verificação de completude do requisito" guid="_Jdqz0PrFEeauU9O6MtTB9g">
+    <sectionDescription>Verificação de completude do requisito, se o mesmo faz sentido</sectionDescription>
+  </sections>
+  <sections xmi:id="_7tmgwPrFEeauU9O6MtTB9g" name="Verificação de qualidade" guid="_7tmgwPrFEeauU9O6MtTB9g">
+    <sectionDescription>Verificação de qualidade do requisito, se o mesmo antende a demadna de construção do LO</sectionDescription>
+  </sections>
+  <sections xmi:id="_1P-gkPrGEeauU9O6MtTB9g" name="Possível correção de algum requisito" guid="_1P-gkPrGEeauU9O6MtTB9g">
+    <sectionDescription>Possível correção de algum requisito gerado nas etapas anteriores.</sectionDescription>
+  </sections>
+  <purpose>Análise de qualidade dos requisitos gerados, a fim de verificar se o mesmo possui qualidade</purpose>
+</org.eclipse.epf.uma:TaskDescription>

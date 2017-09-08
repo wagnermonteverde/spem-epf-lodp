@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OI7VIDq_UkcRqL2ZBzf2jQ" name=",_iHf8MPq4EeauU9O6MtTB9g" guid="-OI7VIDq_UkcRqL2ZBzf2jQ" changeDate="2017-02-24T14:46:34.098-0300" version="1">
+  <mainDescription>Casos de uso devem ser descritos com cada requisito, capturando cenários&amp;nbsp; de uso do objeto de aprendizagem que&#xD;
+exercitem o requisito.</mainDescription>
+  <sections xmi:id="_Wh0xMPrGEeauU9O6MtTB9g" name="Verificar requisito" guid="_Wh0xMPrGEeauU9O6MtTB9g">
+    <sectionDescription>Verificar requisito, comprender o mesmo, e modelar o caso de uso, segundo notação gráfica.</sectionDescription>
+  </sections>
+  <sections xmi:id="_dRsigPrGEeauU9O6MtTB9g" name="Documentar requisito" guid="_dRsigPrGEeauU9O6MtTB9g">
+    <sectionDescription>Documentar requisito, segundo sua ordem de prioridade observando notação gráfica.</sectionDescription>
+  </sections>
+  <purpose>Criar casos de uso&amp;nbsp; aprtir de cada requisito.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

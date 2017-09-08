@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-xNNF-nllTcdJ1x5kUoXV3Q" name=",_qG5eIPooEea_WPhbd9hbJw" guid="-xNNF-nllTcdJ1x5kUoXV3Q" changeDate="2017-02-23T21:33:39.703-0300">
+  <mainDescription>Documento contendo todos os requsitos necessário para o deenvolvimento do objeto de aprendizagem, criado pelos&#xD;
+profissionais&amp;nbsp; envolvidos no processo.</mainDescription>
+  <purpose>Definir os requsitos necesários para criação do obejto de aprendizagem</purpose>
+  <impactOfNotHaving>&lt;p>&#xD;
+    Não ter tal artefato impacta diretamente, na qualidade do objeto de aprendizagem, o mesmo necessita de requsitos&#xD;
+    definidos para sua qualidade.&#xD;
+&lt;/p></impactOfNotHaving>
+  <briefOutline>Documento contendo todos os requsitos necessário para o deenvolvimento do objeto de aprendizagem,</briefOutline>
+  <representationOptions>Documento contendo relação dos requisitos</representationOptions>
+  <representation>Documento</representation>
+  <notation>Documento</notation>
+</org.eclipse.epf.uma:ArtifactDescription>

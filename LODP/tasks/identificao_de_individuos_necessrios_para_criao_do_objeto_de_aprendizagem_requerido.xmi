@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-oRfY1qLvCaVZQ9hXokdTwQ" name=",_eeVgkPodEea_WPhbd9hbJw" guid="-oRfY1qLvCaVZQ9hXokdTwQ" changeDate="2017-02-23T20:24:02.926-0300" version="1">
+  <mainDescription>Verificar quais profissionais são necessários para criação do objeto de aprendizagem, estes podem variar de acordo com o&#xD;
+tipo de objeto de aprendizagem que deve ser gerado.</mainDescription>
+  <sections xmi:id="_xd8gwPrDEeauU9O6MtTB9g" name="Verificar a demanda de criação do LO" guid="_xd8gwPrDEeauU9O6MtTB9g">
+    <sectionDescription>&lt;p>&#xD;
+    Verificar a demanda de criação do LO, identficado as necessidades, do criador da demanda.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_6q1HEPrDEeauU9O6MtTB9g" name="Verificar os possíveis profissionais envolvidos." guid="_6q1HEPrDEeauU9O6MtTB9g">
+    <sectionDescription>Verificar os possíveis profissionais envolvidos, para a criação do referido LO, verificando quais as habilidades&#xD;
+necessárias para criação do referido LO.</sectionDescription>
+  </sections>
+  <sections xmi:id="_H6uP0PrEEeauU9O6MtTB9g" name="Enumerar os profissionais necessários e sua disponibilidade." guid="_H6uP0PrEEeauU9O6MtTB9g">
+    <sectionDescription>Enumerar os profissionais envolvidos, verificar sua disponibilidade para o projeto de desenvolvimento do LO.</sectionDescription>
+  </sections>
+  <sections xmi:id="_XY0VgPrEEeauU9O6MtTB9g" name="Criar documento com profissionais disponíveis." guid="_XY0VgPrEEeauU9O6MtTB9g">
+    <sectionDescription>Criar documento com profissionais disponíveis.</sectionDescription>
+  </sections>
+  <purpose>Efetuar levantamento de indivíduos interessados e necessários para criação do objeto de aprendizagem.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

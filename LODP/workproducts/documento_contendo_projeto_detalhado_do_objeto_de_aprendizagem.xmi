@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gNiNBWU6hXAULOz02Tch0A" name=",_76wM4Pt-Eea9qZeejnBn-A" guid="-gNiNBWU6hXAULOz02Tch0A" changeDate="2017-02-25T14:23:06.573-0300">
+  <mainDescription>&lt;span class=&quot;fontstyle0&quot;>Esse projeto deve especificar tanto o projeto instrucional do objeto de aprendizagem quanto&lt;br />&#xD;
+o projeto dos módulos de software necessários à sua construção, &lt;span class=&quot;fontstyle0&quot;>Os modelos dos módulos de software&#xD;
+devem ser definidos de acordo com o paradigma escolhido para a construção (procedural, orientado a objeto ou&#xD;
+declarativo).&lt;/span>&lt;br&#xD;
+style=&quot;LINE-HEIGHT: normal; WIDOWS: 2; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; FONT-WEIGHT: normal; WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+&#xD;
+&lt;/span> &lt;br&#xD;
+style=&quot;LINE-HEIGHT: normal; WIDOWS: 2; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; FONT-WEIGHT: normal; WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+</mainDescription>
+  <purpose>Detalhar projeto do objeto de aprendizagem.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

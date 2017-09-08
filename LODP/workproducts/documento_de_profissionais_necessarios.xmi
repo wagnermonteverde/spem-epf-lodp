@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-A0r-4SoagNjN5rGYPBgIgQ" name="new_artifact,_mYH7wPonEea_WPhbd9hbJw" guid="-A0r-4SoagNjN5rGYPBgIgQ" changeDate="2017-02-23T21:26:34.832-0300" version="1">
+  <mainDescription>&lt;p>&#xD;
+    Definir quais profissionais serão necessários para construção do objeto de aprendizagem, esta definição por sua vez&#xD;
+    depende do objetivo do objeto de aprendizagem, a tenologia envolvida para criação do mesmo.&#xD;
+&lt;/p></mainDescription>
+  <purpose>Definição dos Profissionais (papéis) envolvidos no processo de criação do objeto de aprendizagem.</purpose>
+  <impactOfNotHaving>&lt;p>&#xD;
+    Impacto alto, pois é necessário definir quais profissionais farão parte do projeto&#xD;
+&lt;/p></impactOfNotHaving>
+  <reasonsForNotNeeding>Não existe.</reasonsForNotNeeding>
+  <briefOutline>Documento contendo profissionais necessários para criação do objeto de aprendizgem</briefOutline>
+  <representationOptions>Documento contendo lsta d e profissionais</representationOptions>
+  <representation>Documento</representation>
+</org.eclipse.epf.uma:ArtifactDescription>

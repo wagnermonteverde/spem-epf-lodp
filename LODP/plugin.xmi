@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_YlCv4PiGEea3_-Q0nJpzOA" guid="_YlCv4PiGEea3_-Q0nJpzOA">
+    <subManagers xmi:id="_TLa3EPq7EeauU9O6MtTB9g" href="uma://_TJar8Pq7EeauU9O6MtTB9g#_TLa3EPq7EeauU9O6MtTB9g"/>
+    <resourceDescriptors xmi:id="_tLKE4PoeEea_WPhbd9hbJw" id="--AU_Q1yV6etwKS3BKfbYwQ" uri="roles/responsavel_pelo_kickoff.xmi"/>
+    <resourceDescriptors xmi:id="_VqTNMfofEea_WPhbd9hbJw" id="-oRfY1qLvCaVZQ9hXokdTwQ" uri="tasks/identificao_de_individuos_necessrios_para_criao_do_objeto_de_aprendizagem_requerido.xmi"/>
+    <resourceDescriptors xmi:id="_PB4gAPolEea_WPhbd9hbJw" id="-376oIdQA4yzBL7NjZ9juCg" uri="tasks/levantamento_de_requisitos_por_parte_dos_interessados.xmi"/>
+    <resourceDescriptors xmi:id="_CoZlYPomEea_WPhbd9hbJw" id="-Xk1judXtplTy338GoM8S-Q" uri="tasks/definicao_dos_requisitos_prioritarios.xmi"/>
+    <resourceDescriptors xmi:id="_xgS_gPomEea_WPhbd9hbJw" id="-SiRpHUT_kgd4nbvjd192xA" uri="tasks/analise_de_do_requisito_gerado.xmi"/>
+    <resourceDescriptors xmi:id="_-vnggfomEea_WPhbd9hbJw" id="-vcXvwDevw7YuIkxxPwW5Ug" uri="roles/profissional_necessario_para_contrucao_do_objeto_de_aprendizagem.xmi"/>
+    <resourceDescriptors xmi:id="_qHkMgPooEea_WPhbd9hbJw" id="-A0r-4SoagNjN5rGYPBgIgQ" uri="workproducts/documento_de_profissionais_necessarios.xmi"/>
+    <resourceDescriptors xmi:id="_Y98uQPoqEea_WPhbd9hbJw" id="-xNNF-nllTcdJ1x5kUoXV3Q" uri="workproducts/documento_de_requisistos_do_objeto_de_aprendizagem.xmi"/>
+    <resourceDescriptors xmi:id="_XVANgPq5EeauU9O6MtTB9g" id="-OI7VIDq_UkcRqL2ZBzf2jQ" uri="tasks/criacao_de_casos_de_uso_dos_requisitos.xmi"/>
+    <resourceDescriptors xmi:id="_BQZ4cPq6EeauU9O6MtTB9g" id="-_dUAf7aNClb7D86PxxdIUQ" uri="workproducts/documento_contendo_casos_de_uso.xmi"/>
+    <resourceDescriptors xmi:id="_TJzGcPq7EeauU9O6MtTB9g" id="_TJar8Pq7EeauU9O6MtTB9g" uri="deliveryprocesses/technical%20Process/model.xmi"/>
+    <resourceDescriptors xmi:id="_wJWacPrFEeauU9O6MtTB9g" id="-UnQFZ7QQw-upXlOk8Six4w" uri="workproducts/documento_de_rqusitos_prioritarios.xmi"/>
+    <resourceDescriptors xmi:id="_XW1g0Pt6Eea9qZeejnBn-A" id="-BfpeuJvDYHBR6oTdeT9IIw" uri="roles/profissional_responsavel_pelo_design.xmi"/>
+    <resourceDescriptors xmi:id="_1O31oPt8Eea9qZeejnBn-A" id="-qmIHipmhVte0VflaGOQWHg" uri="tasks/criacao_do_projeto_arquitetural.xmi"/>
+    <resourceDescriptors xmi:id="_SkRM4Pt-Eea9qZeejnBn-A" id="-DwXU8o8irJ97n-30VOUnkQ" uri="tasks/criacao_do_projeto_detalhado_do_objeto_de_aprendizagem.xmi"/>
+    <resourceDescriptors xmi:id="_0YNBcPt-Eea9qZeejnBn-A" id="-mOssIT-6o4UFbTgdoefC5g" uri="workproducts/documento_com_projeto_aquitetura_instrucional_do_objeto_de_aprendizagem.xmi"/>
+    <resourceDescriptors xmi:id="_JFUJsPt_Eea9qZeejnBn-A" id="-gNiNBWU6hXAULOz02Tch0A" uri="workproducts/documento_contendo_projeto_detalhado_do_objeto_de_aprendizagem.xmi"/>
+    <resourceDescriptors xmi:id="_rftSkPuFEeaFNYBgvrTvnQ" id="-rLiCMqu0fdGFqVcqGyf_Zg" uri="roles/profissional_responsavel_pela_implementacao.xmi"/>
+    <resourceDescriptors xmi:id="_EOT6UPuGEeaFNYBgvrTvnQ" id="-0099fP8MbQ78C79kNUqRuQ" uri="tasks/verificacao_dos_documentos_de_projeto.xmi"/>
+    <resourceDescriptors xmi:id="_WBHNkPuGEeaFNYBgvrTvnQ" id="-pAJAooQFypI6lyDcVs4VcA" uri="tasks/implementacao_do_lo.xmi"/>
+    <resourceDescriptors xmi:id="_rX8BMPuGEeaFNYBgvrTvnQ" id="-TdtwFm_HtrrbnDInorENuQ" uri="workproducts/objeto_de_aprendizagem.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_YkqVYPiGEea3_-Q0nJpzOA" name="LODP" guid="_YkqVYPiGEea3_-Q0nJpzOA">
+    <methodElementProperty xmi:id="_YlI2gPiGEea3_-Q0nJpzOA" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_YkqVYfiGEea3_-Q0nJpzOA" name="Content" guid="_YkqVYfiGEea3_-Q0nJpzOA">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_YkqVYviGEea3_-Q0nJpzOA" name="Categories" guid="_YkqVYviGEea3_-Q0nJpzOA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_YkqVY_iGEea3_-Q0nJpzOA" name="Domains" guid="_YkqVY_iGEea3_-Q0nJpzOA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_YkqVZPiGEea3_-Q0nJpzOA" name="Disciplines" guid="_YkqVZPiGEea3_-Q0nJpzOA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_YkqVZfiGEea3_-Q0nJpzOA" name="RoleSets" guid="_YkqVZfiGEea3_-Q0nJpzOA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_YkqVZviGEea3_-Q0nJpzOA" name="WP Types" guid="_YkqVZviGEea3_-Q0nJpzOA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_YkqVZ_iGEea3_-Q0nJpzOA" name="Tools" guid="_YkqVZ_iGEea3_-Q0nJpzOA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_YkqVaPiGEea3_-Q0nJpzOA" name="StandardCategories" guid="_YkqVaPiGEea3_-Q0nJpzOA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_YkqVafiGEea3_-Q0nJpzOA" name="CustomCategories" guid="_YkqVafiGEea3_-Q0nJpzOA">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_YkqVaviGEea3_-Q0nJpzOA" name="Hidden" guid="_YkqVaviGEea3_-Q0nJpzOA">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_YkqVa_iGEea3_-Q0nJpzOA" name="Custom Categories" guid="_YkqVa_iGEea3_-Q0nJpzOA" categorizedElements="__v38APrIEeauU9O6MtTB9g"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="__v38APrIEeauU9O6MtTB9g" name="new_custom_category" guid="__v38APrIEeauU9O6MtTB9g" presentationName="new_custom_category">
+            <methodElementProperty xmi:id="_ul9YQPrJEeauU9O6MtTB9g" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_TJar8Pq7EeauU9O6MtTB9g#_TJar8fq7EeauU9O6MtTB9g"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_YkqVbPiGEea3_-Q0nJpzOA" name="CoreContent" guid="_YkqVbPiGEea3_-Q0nJpzOA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_owWkEPiKEea3_-Q0nJpzOA" name="community_enabling_process" guid="_owWkEPiKEea3_-Q0nJpzOA" presentationName="community enabling process">
+          <methodElementProperty xmi:id="_owcqsPiKEea3_-Q0nJpzOA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_u0-uEPiMEea3_-Q0nJpzOA" name="me_edited" value="true"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ZrZPwPiNEea3_-Q0nJpzOA" name="community_management_process" guid="_ZrZPwPiNEea3_-Q0nJpzOA" presentationName="community management process">
+            <methodElementProperty xmi:id="_ZrZPwfiNEea3_-Q0nJpzOA" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_xsc1APiNEea3_-Q0nJpzOA" name="me_edited" value="true"/>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_cynfYPiNEea3_-Q0nJpzOA" name="infraestruture_management_proces" guid="_cynfYPiNEea3_-Q0nJpzOA" presentationName="infraestruture management proces">
+            <methodElementProperty xmi:id="_cynfYfiNEea3_-Q0nJpzOA" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_xsi7oPiNEea3_-Q0nJpzOA" name="me_edited" value="true"/>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gJIIMPiNEea3_-Q0nJpzOA" name="intellectual_property_management_process" guid="_gJIIMPiNEea3_-Q0nJpzOA" presentationName="intellectual property management process">
+            <methodElementProperty xmi:id="_gJIIMfiNEea3_-Q0nJpzOA" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_xsvI4PiNEea3_-Q0nJpzOA" name="me_edited" value="true"/>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_kW6-UPiNEea3_-Q0nJpzOA" name="knowledge_sharing_and_management_process" guid="_kW6-UPiNEea3_-Q0nJpzOA" presentationName="knowledge sharing and management process">
+            <methodElementProperty xmi:id="_kW6-UfiNEea3_-Q0nJpzOA" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_xs1PgPiNEea3_-Q0nJpzOA" name="me_edited" value="true"/>
+          </childPackages>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ZqVKsPiLEea3_-Q0nJpzOA" name="communiy_establishment_process" guid="_ZqVKsPiLEea3_-Q0nJpzOA" presentationName="communiy establishment process">
+          <methodElementProperty xmi:id="_ZqVKsfiLEea3_-Q0nJpzOA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_ehxawPiLEea3_-Q0nJpzOA" name="pakage_supporting" value="false"/>
+          <methodElementProperty xmi:id="_u1E0sPiMEea3_-Q0nJpzOA" name="me_edited" value="true"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_sj6N4PiNEea3_-Q0nJpzOA" name="community_stablishment_process" guid="_sj6N4PiNEea3_-Q0nJpzOA" presentationName="community stablishment process">
+            <methodElementProperty xmi:id="_sj6N4fiNEea3_-Q0nJpzOA" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_xs7WIPiNEea3_-Q0nJpzOA" name="me_edited" value="true"/>
+          </childPackages>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_g3bDgPiLEea3_-Q0nJpzOA" name="projec_process" guid="_g3bDgPiLEea3_-Q0nJpzOA" presentationName="projec process">
+          <methodElementProperty xmi:id="_g3bDgfiLEea3_-Q0nJpzOA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_u1RB8PiMEea3_-Q0nJpzOA" name="me_edited" value="true"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_0RGjEPiNEea3_-Q0nJpzOA" name="project_management_process" guid="_0RGjEPiNEea3_-Q0nJpzOA" presentationName="project management process">
+            <methodElementProperty xmi:id="_0RGjEfiNEea3_-Q0nJpzOA" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_2y4jUPiNEea3_-Q0nJpzOA" name="me_edited" value="true"/>
+          </childPackages>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_82CqgPiLEea3_-Q0nJpzOA" name="technical_process" guid="_82CqgPiLEea3_-Q0nJpzOA" presentationName="Technical Process" briefDescription="O processo de engenharia de requisitos (Requirements Engineering Process) compreende&#xD;&#xA;os processos de análise de requisitos dos interessados e análise de requisitos do sistema do processo padrão.">
+          <methodElementProperty xmi:id="_82CqgfiLEea3_-Q0nJpzOA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_DDDmYPiMEea3_-Q0nJpzOA" name="pakage_supporting" value="false"/>
+          <methodElementProperty xmi:id="_u1XIkPiMEea3_-Q0nJpzOA" name="me_edited" value="true"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_EmGGcPiMEea3_-Q0nJpzOA" name="requirements_engineering_process" guid="_EmGGcPiMEea3_-Q0nJpzOA" presentationName="Requirements engineering process" briefDescription="Compreende os processos de análise de requisitos dos interessados e análise de requisitos do sistema do processo-padrão. Consiste então na identificação de pessoas que representem os principais interessados no objeto de aprendizagem (aprendizes e instrutores) e quaisquer outros que sejam julgados relevantes para o objeto de aprendizagem (projetistas gráficos, engenheiros de usabilidade, profissionais de área tecnológica, profissionais pedagógicos)...">
+            <methodElementProperty xmi:id="_EmGGcfiMEea3_-Q0nJpzOA" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_fXivsPiMEea3_-Q0nJpzOA" name="pakage_supporting" value="false"/>
+            <methodElementProperty xmi:id="_u1jV0PiMEea3_-Q0nJpzOA" name="me_edited" value="true"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_eeVgkPodEea_WPhbd9hbJw" name="identificao_de_individuos_necessrios_para_criao_do_objeto_de_aprendizagem_requerido" guid="_eeVgkPodEea_WPhbd9hbJw" presentationName="Identificação de individuos necessários para criação do objeto de aprendizagem requerido" briefDescription="Identificar quais os interessados no objeto de aprendizagem, bem como verificar os recursos necessários, para sua execução (profissionais das áreas distintas. professor, pedagogo, profissional tecnológico ...)" performedBy="_Ujt1EPoeEea_WPhbd9hbJw" mandatoryInput="_7R4VcPrCEeauU9O6MtTB9g" output="_mYH7wPonEea_WPhbd9hbJw">
+              <methodElementProperty xmi:id="_PLOtcPoeEea_WPhbd9hbJw" name="me_edited" value="true"/>
+              <presentation xmi:id="-oRfY1qLvCaVZQ9hXokdTwQ" href="uma://-oRfY1qLvCaVZQ9hXokdTwQ#-oRfY1qLvCaVZQ9hXokdTwQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Ujt1EPoeEea_WPhbd9hbJw" name="responsavel_pelo_kickoff" guid="_Ujt1EPoeEea_WPhbd9hbJw" presentationName="Responsavel pelo KickOff" briefDescription="Indivíduo responsável por dar início a análise do projeto do objeto de aprendizagem">
+              <methodElementProperty xmi:id="_tLD-QPoeEea_WPhbd9hbJw" name="me_edited" value="true"/>
+              <presentation xmi:id="--AU_Q1yV6etwKS3BKfbYwQ" href="uma://--AU_Q1yV6etwKS3BKfbYwQ#--AU_Q1yV6etwKS3BKfbYwQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_u5Fw4PofEea_WPhbd9hbJw" name="levantamento_de_requisitos_por_parte_dos_interessados" guid="_u5Fw4PofEea_WPhbd9hbJw" presentationName="Levantamento de requisitos por parte dos interessados" briefDescription="Os interessados devem descrever os seus requsitos necessidades e expectativas quanto ao objeto de aprendizagem." performedBy="_ydg1sPomEea_WPhbd9hbJw" mandatoryInput="_7R4VcPrCEeauU9O6MtTB9g" output="_qG5eIPooEea_WPhbd9hbJw" additionallyPerformedBy="_Ujt1EPoeEea_WPhbd9hbJw">
+              <methodElementProperty xmi:id="_eqHggPoiEea_WPhbd9hbJw" name="me_edited" value="true"/>
+              <presentation xmi:id="-376oIdQA4yzBL7NjZ9juCg" href="uma://-376oIdQA4yzBL7NjZ9juCg#-376oIdQA4yzBL7NjZ9juCg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_bgkVoPoiEea_WPhbd9hbJw" name="definicao_dos_requisitos_prioritarios" guid="_bgkVoPoiEea_WPhbd9hbJw" presentationName="Definicao dos requisitos prioritarios" briefDescription="Os membros do projeto devem descrever os requisitos preioritários, ms sem necessariamente defnir a prioridade de todos os requisitos." performedBy="_ydg1sPomEea_WPhbd9hbJw" mandatoryInput="_qG5eIPooEea_WPhbd9hbJw" output="_oEAD8PrFEeauU9O6MtTB9g" additionallyPerformedBy="_Ujt1EPoeEea_WPhbd9hbJw">
+              <methodElementProperty xmi:id="_eqVi8PoiEea_WPhbd9hbJw" name="me_edited" value="true"/>
+              <presentation xmi:id="-Xk1judXtplTy338GoM8S-Q" href="uma://-Xk1judXtplTy338GoM8S-Q#-Xk1judXtplTy338GoM8S-Q"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_LrQF8PomEea_WPhbd9hbJw" name="analise_de_do_requisito_gerado" guid="_LrQF8PomEea_WPhbd9hbJw" presentationName="Analise de do requisito gerado" briefDescription="O requisito gerado deve ser analisado sgundo à sua qualidade (completeza, correção,dentre outros atributos). " performedBy="_Ujt1EPoeEea_WPhbd9hbJw" mandatoryInput="_qG5eIPooEea_WPhbd9hbJw" output="_qG5eIPooEea_WPhbd9hbJw" additionallyPerformedBy="_ydg1sPomEea_WPhbd9hbJw">
+              <methodElementProperty xmi:id="_Xlki4PomEea_WPhbd9hbJw" name="me_edited" value="true"/>
+              <presentation xmi:id="-SiRpHUT_kgd4nbvjd192xA" href="uma://-SiRpHUT_kgd4nbvjd192xA#-SiRpHUT_kgd4nbvjd192xA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_ydg1sPomEea_WPhbd9hbJw" name="profissional_necessario_para_contrucao_do_objeto_de_aprendizagem" guid="_ydg1sPomEea_WPhbd9hbJw" presentationName="Profissional necessario para contrucao do objeto de aprendizagem" briefDescription="Profissional necessário e elencado na tarefa de análise dos envolvidos na criação do objeto de aprendiagem.">
+              <methodElementProperty xmi:id="_8VYSsPomEea_WPhbd9hbJw" name="me_edited" value="true"/>
+              <presentation xmi:id="-vcXvwDevw7YuIkxxPwW5Ug" href="uma://-vcXvwDevw7YuIkxxPwW5Ug#-vcXvwDevw7YuIkxxPwW5Ug"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_mYH7wPonEea_WPhbd9hbJw" name="documento_de_profissionais_necessarios" guid="_mYH7wPonEea_WPhbd9hbJw" presentationName="Documento de Profissionais Necessarios" briefDescription="Documento de Profissionais Necessarios par construção do objeto de aprendizagem">
+              <methodElementProperty xmi:id="_a4GGwPoqEea_WPhbd9hbJw" name="me_edited" value="true"/>
+              <presentation xmi:id="-A0r-4SoagNjN5rGYPBgIgQ" href="uma://-A0r-4SoagNjN5rGYPBgIgQ#-A0r-4SoagNjN5rGYPBgIgQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_qG5eIPooEea_WPhbd9hbJw" name="documento_de_requisistos_do_objeto_de_aprendizagem" guid="_qG5eIPooEea_WPhbd9hbJw" presentationName="Documento de requisistos do objeto de aprendizagem" briefDescription="Documento contendo todos os requsitos necessário para o deenvolvimento do objeto de aprendizagem">
+              <methodElementProperty xmi:id="_Y92noPoqEea_WPhbd9hbJw" name="me_edited" value="true"/>
+              <presentation xmi:id="-xNNF-nllTcdJ1x5kUoXV3Q" href="uma://-xNNF-nllTcdJ1x5kUoXV3Q#-xNNF-nllTcdJ1x5kUoXV3Q"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_iHf8MPq4EeauU9O6MtTB9g" name="criacao_de_casos_de_uso_dos_requisitos" guid="_iHf8MPq4EeauU9O6MtTB9g" presentationName="Criacao de casos de uso dos requisitos" briefDescription="Casos de uso devem ser  descritos para cada requisito." performedBy="_ydg1sPomEea_WPhbd9hbJw" mandatoryInput="_oEAD8PrFEeauU9O6MtTB9g" output="_pHhM4Pq5EeauU9O6MtTB9g" additionallyPerformedBy="_Ujt1EPoeEea_WPhbd9hbJw" optionalInput="_qG5eIPooEea_WPhbd9hbJw">
+              <methodElementProperty xmi:id="_nIrXEPq4EeauU9O6MtTB9g" name="me_edited" value="true"/>
+              <presentation xmi:id="-OI7VIDq_UkcRqL2ZBzf2jQ" href="uma://-OI7VIDq_UkcRqL2ZBzf2jQ#-OI7VIDq_UkcRqL2ZBzf2jQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_pHhM4Pq5EeauU9O6MtTB9g" name="documento_contendo_casos_de_uso" guid="_pHhM4Pq5EeauU9O6MtTB9g" presentationName="Documento Contendo Casos de uso" briefDescription="Documento contendo casos de uso.">
+              <methodElementProperty xmi:id="_t-rJEPq5EeauU9O6MtTB9g" name="me_edited" value="true"/>
+              <presentation xmi:id="-_dUAf7aNClb7D86PxxdIUQ" href="uma://-_dUAf7aNClb7D86PxxdIUQ#-_dUAf7aNClb7D86PxxdIUQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_7R4VcPrCEeauU9O6MtTB9g" name="documento_provedor_de_demanda_de_lo" guid="_7R4VcPrCEeauU9O6MtTB9g" presentationName="Documento_provedor de demanda de LO" briefDescription="Documento contendo a intenção da criação do objeto de aprendizagem para determinada área.">
+              <methodElementProperty xmi:id="_QNPVEPrDEeauU9O6MtTB9g" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_oEAD8PrFEeauU9O6MtTB9g" name="documento_de_rqusitos_prioritarios" guid="_oEAD8PrFEeauU9O6MtTB9g" presentationName="Documento de rqusitos prioritarios" briefDescription="Documento de rqusitos prioritarios">
+              <methodElementProperty xmi:id="_wJ07kPrFEeauU9O6MtTB9g" name="me_edited" value="true"/>
+              <presentation xmi:id="-UnQFZ7QQw-upXlOk8Six4w" href="uma://-UnQFZ7QQw-upXlOk8Six4w#-UnQFZ7QQw-upXlOk8Six4w"/>
+            </contentElements>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_L2JzsPiMEea3_-Q0nJpzOA" name="design_process" guid="_L2JzsPiMEea3_-Q0nJpzOA" presentationName="design process" briefDescription="O processo de design é responsável pelo projeto arquitetural e detalhado do objeto de&#xD;&#xA;aprendizagem, logo implementando os respectivos processos do SPLOD.">
+            <methodElementProperty xmi:id="_L2JzsfiMEea3_-Q0nJpzOA" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_fXivsfiMEea3_-Q0nJpzOA" name="pakage_supporting" value="false"/>
+            <methodElementProperty xmi:id="_u1pccPiMEea3_-Q0nJpzOA" name="me_edited" value="true"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_9P07sPt5Eea9qZeejnBn-A" name="profissional_responsavel_pelo_design" guid="_9P07sPt5Eea9qZeejnBn-A" presentationName="Profissional responsavel pelo design" briefDescription="Profissional responsavel pelo design do objeto de aprendizagem, podem ser uma ou mais, profissionais, dependendo danecessidade.">
+              <methodElementProperty xmi:id="_XWvaMPt6Eea9qZeejnBn-A" name="me_edited" value="true"/>
+              <presentation xmi:id="-BfpeuJvDYHBR6oTdeT9IIw" href="uma://-BfpeuJvDYHBR6oTdeT9IIw#-BfpeuJvDYHBR6oTdeT9IIw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_dYsqsPt8Eea9qZeejnBn-A" name="criacao_do_projeto_arquitetural" guid="_dYsqsPt8Eea9qZeejnBn-A" presentationName="Criacao do projeto arquitetural" briefDescription="O desenho/projeto do objeto de aprendizagem inicia-se com a definição da arquitetura do objeto de aprendizagem e as interfaces dele com outros objetos e com o sistema." performedBy="_9P07sPt5Eea9qZeejnBn-A" mandatoryInput="_pHhM4Pq5EeauU9O6MtTB9g _qG5eIPooEea_WPhbd9hbJw _oEAD8PrFEeauU9O6MtTB9g" output="_Zo2p8Pt-Eea9qZeejnBn-A" additionallyPerformedBy="_Ujt1EPoeEea_WPhbd9hbJw">
+              <methodElementProperty xmi:id="_1OursPt8Eea9qZeejnBn-A" name="me_edited" value="true"/>
+              <presentation xmi:id="-qmIHipmhVte0VflaGOQWHg" href="uma://-qmIHipmhVte0VflaGOQWHg#-qmIHipmhVte0VflaGOQWHg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_53z6MPt9Eea9qZeejnBn-A" name="criacao_do_projeto_detalhado_do_objeto_de_aprendizagem" guid="_53z6MPt9Eea9qZeejnBn-A" presentationName="Criacao do Projeto detalhado do objeto de aprendizagem" briefDescription="Esse projeto deve especificar tanto o projeto instrucional do objeto de aprendizagem quanto&#xD;&#xA;o projeto dos módulos de software necessários à sua construção." performedBy="_9P07sPt5Eea9qZeejnBn-A" mandatoryInput="_Zo2p8Pt-Eea9qZeejnBn-A" output="_76wM4Pt-Eea9qZeejnBn-A" additionallyPerformedBy="_Ujt1EPoeEea_WPhbd9hbJw">
+              <methodElementProperty xmi:id="_SkDxgPt-Eea9qZeejnBn-A" name="me_edited" value="true"/>
+              <presentation xmi:id="-DwXU8o8irJ97n-30VOUnkQ" href="uma://-DwXU8o8irJ97n-30VOUnkQ#-DwXU8o8irJ97n-30VOUnkQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Zo2p8Pt-Eea9qZeejnBn-A" name="documento_com_projeto_aquitetura_instrucional_do_objeto_de_aprendizagem" guid="_Zo2p8Pt-Eea9qZeejnBn-A" presentationName="Documento com projeto aquitetural instrucional do objeto de aprendizagem " briefDescription="Documento contendo projeto arquitetural do objeto de aprendizagem.">
+              <methodElementProperty xmi:id="_0X44YPt-Eea9qZeejnBn-A" name="me_edited" value="true"/>
+              <presentation xmi:id="-mOssIT-6o4UFbTgdoefC5g" href="uma://-mOssIT-6o4UFbTgdoefC5g#-mOssIT-6o4UFbTgdoefC5g"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_76wM4Pt-Eea9qZeejnBn-A" name="documento_contendo_projeto_detalhado_do_objeto_de_aprendizagem" guid="_76wM4Pt-Eea9qZeejnBn-A" presentationName="Documento contendo projeto detalhado do objeto de aprendizagem" briefDescription="Esse projeto deve especificar tanto o projeto instrucional do objeto de aprendizagem quanto&#xD;&#xA;o projeto dos módulos de software necessários à sua construção.">
+              <methodElementProperty xmi:id="_JFODEPt_Eea9qZeejnBn-A" name="me_edited" value="true"/>
+              <presentation xmi:id="-gNiNBWU6hXAULOz02Tch0A" href="uma://-gNiNBWU6hXAULOz02Tch0A#-gNiNBWU6hXAULOz02Tch0A"/>
+            </contentElements>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_POF_4PiMEea3_-Q0nJpzOA" name="implementation_process" guid="_POF_4PiMEea3_-Q0nJpzOA" presentationName="Implementation process" briefDescription="O processo de implementação, correspondente às atividades do processo de construção do SPLOD. Esse processo é dedicado, principalmente, à implementação dos módulos de software produzidos de acordo com os modelos instrucionais e modelos detalhados do processo de design.">
+            <methodElementProperty xmi:id="_POF_4fiMEea3_-Q0nJpzOA" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_fXivsviMEea3_-Q0nJpzOA" name="pakage_supporting" value="false"/>
+            <methodElementProperty xmi:id="_u1vjEPiMEea3_-Q0nJpzOA" name="me_edited" value="true"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_X6-HoPuFEeaFNYBgvrTvnQ" name="profissional_responsavel_pela_implementacao" guid="_X6-HoPuFEeaFNYBgvrTvnQ" presentationName="Profissional responsavel pela implementacao" briefDescription="Profissional responsavel pela implementacao do objetode aprendizagem">
+              <methodElementProperty xmi:id="_rg2iEPuFEeaFNYBgvrTvnQ" name="me_edited" value="true"/>
+              <presentation xmi:id="-rLiCMqu0fdGFqVcqGyf_Zg" href="uma://-rLiCMqu0fdGFqVcqGyf_Zg#-rLiCMqu0fdGFqVcqGyf_Zg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_079xoPuFEeaFNYBgvrTvnQ" name="verificacao_dos_documentos_de_projeto" guid="_079xoPuFEeaFNYBgvrTvnQ" presentationName="Verificacao dos documentos de projeto" briefDescription="Verificacao dos documentos de projeto para correta implementação do LO.">
+              <methodElementProperty xmi:id="_EONzsPuGEeaFNYBgvrTvnQ" name="me_edited" value="true"/>
+              <presentation xmi:id="-0099fP8MbQ78C79kNUqRuQ" href="uma://-0099fP8MbQ78C79kNUqRuQ#-0099fP8MbQ78C79kNUqRuQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_NcVwIPuGEeaFNYBgvrTvnQ" name="implementacao_do_lo" guid="_NcVwIPuGEeaFNYBgvrTvnQ" presentationName="Implementacao do LO" briefDescription="Implementar LO segundo os requsitos do projeto" performedBy="_X6-HoPuFEeaFNYBgvrTvnQ" mandatoryInput="_Zo2p8Pt-Eea9qZeejnBn-A _76wM4Pt-Eea9qZeejnBn-A" output="_lhLpMPuGEeaFNYBgvrTvnQ" additionallyPerformedBy="_9P07sPt5Eea9qZeejnBn-A" optionalInput="_qG5eIPooEea_WPhbd9hbJw">
+              <methodElementProperty xmi:id="_WA7AUPuGEeaFNYBgvrTvnQ" name="me_edited" value="true"/>
+              <presentation xmi:id="-pAJAooQFypI6lyDcVs4VcA" href="uma://-pAJAooQFypI6lyDcVs4VcA#-pAJAooQFypI6lyDcVs4VcA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_lhLpMPuGEeaFNYBgvrTvnQ" name="objeto_de_aprendizagem" guid="_lhLpMPuGEeaFNYBgvrTvnQ" presentationName="Objeto de Aprendizagem" briefDescription="Objeto de aprendizagem gerado segundo projeto.">
+              <methodElementProperty xmi:id="_rXvz8PuGEeaFNYBgvrTvnQ" name="me_edited" value="true"/>
+              <presentation xmi:id="-TdtwFm_HtrrbnDInorENuQ" href="uma://-TdtwFm_HtrrbnDInorENuQ#-TdtwFm_HtrrbnDInorENuQ"/>
+            </contentElements>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_S0iiIPiMEea3_-Q0nJpzOA" name="testing_process" guid="_S0iiIPiMEea3_-Q0nJpzOA" presentationName="Testing process">
+            <methodElementProperty xmi:id="_S0uvYPiMEea3_-Q0nJpzOA" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_fXivs_iMEea3_-Q0nJpzOA" name="pakage_supporting" value="false"/>
+            <methodElementProperty xmi:id="_u2aRcPiMEea3_-Q0nJpzOA" name="me_edited" value="true"/>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_V80hsPiMEea3_-Q0nJpzOA" name="operation_and_support_process" guid="_V80hsPiMEea3_-Q0nJpzOA" presentationName="Operation and support process">
+            <methodElementProperty xmi:id="_V9Au8PiMEea3_-Q0nJpzOA" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_fXo2UPiMEea3_-Q0nJpzOA" name="pakage_supporting" value="false"/>
+            <methodElementProperty xmi:id="_u2gYEPiMEea3_-Q0nJpzOA" name="me_edited" value="true"/>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Zw0-0PiMEea3_-Q0nJpzOA" name="disposal_process" guid="_Zw0-0PiMEea3_-Q0nJpzOA" presentationName="Disposal process">
+            <methodElementProperty xmi:id="_Zw0-0fiMEea3_-Q0nJpzOA" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_fXo2UfiMEea3_-Q0nJpzOA" name="pakage_supporting" value="false"/>
+            <methodElementProperty xmi:id="_u2slUPiMEea3_-Q0nJpzOA" name="me_edited" value="true"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_YkqVbfiGEea3_-Q0nJpzOA" name="CapabilityPatterns" guid="_YkqVbfiGEea3_-Q0nJpzOA"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_YkqVbviGEea3_-Q0nJpzOA" name="DeliveryProcesses" guid="_YkqVbviGEea3_-Q0nJpzOA">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_TJar8Pq7EeauU9O6MtTB9g" href="uma://_TJar8Pq7EeauU9O6MtTB9g#_TJar8Pq7EeauU9O6MtTB9g"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_YkqVb_iGEea3_-Q0nJpzOA" name="ProcessContributions" guid="_YkqVb_iGEea3_-Q0nJpzOA"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>
